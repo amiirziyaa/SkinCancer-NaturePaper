@@ -73,9 +73,7 @@ The custom CNN model was configured with the following standard hyperparameters:
 * **Evaluation Metrics:** Models were evaluated based on `Accuracy`, `Precision`, `Recall`, and `F1-score`.
 * **Conclusion:** The method presented in this project shows higher accuracy with minimal error and information loss compared to other recent works on the same dataset.
 
-[Place your Confusion Matrix image here - (like the one in the PDF)]
-![Confusion Matrix](link_to_your_confusion_matrix_image.png)
-
+![Confusion Matrix](confusion_matrix.png)
 ---
 
 ## 🚀 How to Use
