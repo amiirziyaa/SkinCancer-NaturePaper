@@ -82,8 +82,8 @@ To run this project (the `.ipynb` notebook):
 
 1.  First, clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/your-repository-name.git](https://github.com/YourUsername/your-repository-name.git)
-    cd your-repository-name
+    git clone https://github.com/amiirziyaa/SkinCancer-NaturePaper.git
+    cd SkinCancer-NaturePaper
     ```
 
 2.  (Recommended) Create a virtual environment and activate it:
