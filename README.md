@@ -2,7 +2,7 @@
 
 > This project presents a system based on Machine Learning and Convolutional Neural Networks (CNN) for the classification of skin lesions. The primary goal is to aid in the early detection of seven different classes of skin disease and to increase diagnostic accuracy for timely treatment.
 
-This work was completed as a **B.Sc. Project in Electrical Engineering** by **Amirhossein Ziyaeiii** under the supervision of **Dr. Mohammad Hossein Moaiyeri**.
+This work was completed as a **B.Sc. Project in Electrical Engineering** by **Amirhossein Ziyaei** under the supervision of **Dr. Mohammad Hossein Moaiyeri**.
 
 ---
 
